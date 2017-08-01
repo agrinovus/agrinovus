@@ -1,1 +1,1 @@
-# agrinovus
+Agrinovus POS/POW altcoin

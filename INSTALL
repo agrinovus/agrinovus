@@ -1,0 +1,9 @@
+Building AGRINOVUS
+
+See doc/readme-qt.rst for instructions on building AGRINOVUS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AGRINOVUS.
+
+See doc/build-*.txt for instructions on building agrinovusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of AGRINOVUS.
